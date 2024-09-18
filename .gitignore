@@ -1,0 +1,16 @@
+# Исключение виртуального окружения
+venv/
+.venv/
+
+# Кэш Python
+__pycache__/
+*.py[cod]
+
+# Артефакты сборки
+build/
+dist/
+*.egg-info/
+
+# Общие исключения
+.DS_Store
+Thumbs.db
