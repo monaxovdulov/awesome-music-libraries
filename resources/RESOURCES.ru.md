@@ -6,7 +6,19 @@
   Канал, посвященный аудио программированию, включая работу с различными библиотеками и фреймворками.
 
 - [Музыкальный кодинг с Sonic Pi](https://www.youtube.com/channel/UCx1H_BVgP4Z5dJ6Zgzf6S1Q)  
-  Обучающие видео по созданию музыки с помощью кода на Sonic Pi.
+  Обучающие видео по созданию музыки с помощью кода на Sonic Pi
+  
+- [ Бородатый мужичок пишет в аблетон и балуется с питоном](https://www.youtube.com/@ErikKristoferAnderson/videos).
+
+- [How To Edit MIDI Notes And Volumes Using Python With Music21](https://www.youtube.com/watch?v=1kPr1na1xtE)
+
+- [Visualize your music with python | Tutorial | pygame + mido
+](https://www.youtube.com/watch?v=DQjhe1xjGZg)
+
+- [Челик записывает серию обучающих видео по mido librosa и прочим](https://www.youtube.com/@PythonInsider)
+
+- [Челик записывает видео про music21](https://www.youtube.com/@codemeowstro1701/videos)
+
 
 ## Статьи и блоги
 
